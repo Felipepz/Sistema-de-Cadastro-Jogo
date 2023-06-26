@@ -15,7 +15,7 @@
   
 
 
-# A divisão  
+# Divisão do Sistema
 - Telas de Cadastro
 * Cadastro Jogador - Rafael 
 * Cadastro Time - Eduardo
