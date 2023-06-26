@@ -15,7 +15,7 @@
   
 ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Felipepz/Sistema-de-Cadastro-Jogo/assets/88398389/4062b714-beb6-4f83-a0b7-23d399eff2ab)
 
-# Divisão do Sistema
+# 👨‍👦‍👦 Divisão do Sistema.
 - Telas de Cadastro
 * Cadastro Jogador - Rafael 
 * Cadastro Time - Eduardo
