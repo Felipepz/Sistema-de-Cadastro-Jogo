@@ -16,22 +16,22 @@
 ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Felipepz/Sistema-de-Cadastro-Jogo/assets/88398389/4062b714-beb6-4f83-a0b7-23d399eff2ab)
 
 # 👨‍👦‍👦 Divisão do Sistema.
-- Telas de Cadastro
-* Cadastro Jogador - Rafael 
-* Cadastro Time - Eduardo
-* Cadastro Arbitro - Felipe
+- Telas de Cadastro:
+* Cadastro Jogador - Rafael.
+* Cadastro Time - Eduardo.
+* Cadastro Arbitro - Felipe.
 
-- Telas de Processos
-* Processos Jogo - Rafael
-* Processos Cartões - Felipe
+- Telas de Processos:
+* Processos Jogo - Rafael.
+* Processos Cartões - Felipe.
 
-- Relatório
-* Relatório dos jogos - Rafael
-* Relatório Cartões - Felipe
+- Relatório:
+* Relatório dos jogos - Rafael.
+* Relatório Cartões - Felipe.
 
 - Gráfico:
-* Gráfico de Catões - Felipe
-* Gráfico de Vitorias - Rafael
+* Gráfico de Catões - Felipe.
+* Gráfico de Vitorias - Rafael.
 
 
 
